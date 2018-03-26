@@ -13,7 +13,7 @@ Als Umweltingenieur anfangs 30ig, der die letzten Jahre theoretisch, konzeptione
 
 Ich glaube, besonders Begegnungen ohne Zeitdruck sind wertvoll. Sie ermöglichen spontane, inspirierende Aktivitäten und freundschaftliches Zusammensein.
 
-Mit meiner langjährigen Partnerin, Sabine Ott, bin ich vor kurzem aus der Stadt Zürich nach [Männedorf in ein Mehr&shy;generationen&shy;haus](/kontakt/) umgezogen.
+Mit meiner langjährigen Partnerin bin ich vor kurzem aus der Stadt Zürich nach [Männedorf in ein Mehr&shy;generationen&shy;haus](/kontakt/) umgezogen.
 
 ## Eine Auswahl meiner Ausbildungen
 
