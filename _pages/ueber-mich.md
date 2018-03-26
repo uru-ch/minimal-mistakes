@@ -5,7 +5,7 @@ excerpt: "Als Umweltingenieur anfangs 30ig, der die letzten Jahre theroetisch, k
 permalink: /ueber-mich/
 author_profile: false
 header:
-  image: /assets/images/ueber-mich/_mg_1603.jpg
+  image: /assets/images/ueber-mich/mg_1603.jpg
   # caption: "Foto: [**Salome Holdener**](http://fuelleinhuelle.ch/team.html)"
 ---
 
