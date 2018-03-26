@@ -1,7 +1,7 @@
 ---
 title: "Kontakt"
 layout: splash
-excerpt: "Kontaktieren Sie mich für ein unverbindliches Gespräch. Ich freue mich."
+excerpt: "Kontaktieren Sie mich für ein unverbindliches Gespräch. <br>Ich freue mich."
 permalink: /kontakt/
 author_profile: false
 header:

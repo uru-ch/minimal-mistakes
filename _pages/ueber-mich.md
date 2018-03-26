@@ -1,7 +1,7 @@
 ---
 title: "Über Roger Schärer"
 layout: single
-excerpt: "Als Umweltingenieur anfangs 30ig, der die letzten Jahre theroetisch, konzeptionell und abstrakt arbeitete, möchte ich Farbe in meine Arbeitstätigkeit bringen. Mit lebendigen und interessanten Begegnungen zu anderen Menschen will ich Ihren und meinen Alltag verschönern."
+excerpt: "Als Umweltingenieur anfangs 30ig, der die letzten Jahre theoretisch, konzeptionell und abstrakt arbeitete, möchte ich Farbe in meine Arbeitstätigkeit bringen. Mit lebendigen und interessanten Begegnungen zu anderen Menschen will ich Ihren und meinen Alltag verschönern."
 permalink: /ueber-mich/
 author_profile: false
 header:
@@ -9,7 +9,7 @@ header:
   # caption: "Foto: [**Salome Holdener**](http://fuelleinhuelle.ch/team.html)"
 ---
 
-Als Umweltingenieur anfangs 30ig, der die letzten Jahre theroetisch, konzeptionell und abstrakt arbeitete, möchte ich Farbe in meine Arbeitstätigkeit bringen. Mit lebendigen und interessanten Begegnungen zu anderen Menschen will ich Ihren und meinen Alltag verschönern.
+Als Umweltingenieur anfangs 30ig, der die letzten Jahre theoretisch, konzeptionell und abstrakt arbeitete, möchte ich Farbe in meine Arbeitstätigkeit bringen. Mit lebendigen und interessanten Begegnungen zu anderen Menschen will ich Ihren und meinen Alltag verschönern.
 
 Ich glaube, besonders Begegnungen ohne Zeitdruck sind wertvoll. Sie ermöglichen spontane, inspirierende Aktivitäten und freundschaftliches Zusammensein.
 
@@ -26,6 +26,5 @@ Mit meiner langjährigen Partnerin, Sabine Ott, bin ich vor kurzem aus der Stadt
 
 ## Berufliche Tätigkeit
 
-* Seit 2012 **Umweltingenieur** und Mitbegründer der sinndrin genossenschaft. Erwachsenenbildung, Projektleitung, Webde-
-sign und Webhosting. Interne Verantwortung für das Aktuariat, den Infrastrukturaufbau und die Serveradministration.
+* Seit 2012 **Umweltingenieur** und Mitbegründer der sinndrin genossenschaft. Erwachsenenbildung, Projektleitung, Webdesign und Webhosting. Interne Verantwortung für das Aktuariat, den Infrastrukturaufbau und die Serveradministration.
 * Davor war ich als **Planungs- und Projektleiter** für Glasfaser-Netzwerk-Geräte im Zürcher Oberland tätig und am Flughafen Zürich als **Einkäufer von Flugzeugteilen**.
