@@ -2,7 +2,7 @@
 title: "Vision"
 layout: single
 # excerpt: "Ich möchte das wichtige wertschätzen und Begegnungen mit freudvollem Tun mitgestalten."
-excerpt: "Ich glaube, besonders Begegnungen ohne Zeitdruck sind wertvoll. Sie ermöglichen spontane, inspirierende Aktivitäten und freundschaftliches Zusammensein."
+excerpt: "Ich glaube: besonders Begegnungen ohne Zeitdruck sind wertvoll. Solche ermöglichen spontane, inspirierende Aktivitäten und freundschaftliches Zusammensein."
 sitemap: true
 permalink: /vision/
 author_profile: true
@@ -11,7 +11,7 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/vision/chen-hu-521623-unsplash-crop-1600.jpg
   caption: "Foto: [**Chen Hu**](https://unsplash.com/@huchenme)"
-  cta_label: "Mit meinem Angebot möchte ich mit Ihnen so eine Begegnungen gestalten."
+  cta_label: "Mit meinem Angebot möchte ich mit Ihnen solche Begegnungen gestalten."
   cta_url: "/angebot/"
 ---
 
