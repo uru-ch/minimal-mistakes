@@ -7,7 +7,7 @@ sitemap: true
 permalink: /vision/
 author_profile: true
 header:
-  overlay_color: "#000"
+  overlay_color: "#2a2d24"
   overlay_filter: "0.2"
   overlay_image: /assets/images/vision/chen-hu-521623-unsplash-crop-1600.jpg
   caption: "Foto: [**Chen Hu**](https://unsplash.com/@huchenme)"
