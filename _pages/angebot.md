@@ -14,7 +14,7 @@ header:
 ---
 {% include base_path %}
 
-Ich begleite Sie bei verschiedensten Tagesunternehmungen, biete Gesellschaft bei Ausflügen und Kulturanlässen an sowie Unterstützung bei Autofahrten, Computer-, Büro-, Haus- und Gartenarbeiten.
+Ich begleite Sie bei verschiedensten Tagesunternehmungen, biete Gesellschaft bei Ausflügen und Kulturanlässen an, sowie Unterstützung bei Autofahrten, Computer-, Büro-, Haus- und Gartenarbeiten.
 
 Weitere Tätigkeiten können sein: zusammen reden, spazieren, vorlesen, philosophieren, kochen und essen, einkaufen, entrümpeln, organisieren, spielen und vieles mehr.
 
