@@ -22,8 +22,6 @@ Ich freue mich, die von Ihnen gewünschte Unterstützung anzubieten und bei Ihne
 
 ## Entlöhnung
 
-Ich möchte diese Tätigkeit als Haupterwerb ausüben. Deshalb fällt mein bestehendes Einkommen weg und ich brauche eine finanzielle Entschädigung.
-
 Mein Anliegen ist, dass dieses Angebot unabhängig von den finanziellen Möglichkeiten für alle bezahlbar ist. Deshalb vereinbaren wir einen angepassten Tages- oder Halbtagessatz individuell miteinander. 
 Sie bleiben auf der sicheren Seite, denn Sie können unsere Zusammenarbeit jederzeit beenden.
 
