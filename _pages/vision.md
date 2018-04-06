@@ -1,7 +1,6 @@
 ---
 title: "Vision"
 layout: single
-# excerpt: "Ich möchte das wichtige wertschätzen und Begegnungen mit freudvollem Tun mitgestalten."
 excerpt: "Ich glaube: besonders Begegnungen ohne Zeitdruck sind wertvoll. Solche ermöglichen spontane, inspirierende Aktivitäten und freundschaftliches Zusammensein."
 sitemap: true
 permalink: /vision/
@@ -19,6 +18,6 @@ Ich möchte meine Zeit mit Menschen verbringen, die sich mehr Gesellschaft wüns
 
 Hin und wieder mal einen Tag zusammen mit jemandem zu gestalten, ist wohltuend. Gelegentliche Begleitung bringt eine Abwechslung in den gewöhnlichen Alltag.
 
-Mit [meinem Angebot](/angebot/) biete ich Ihnen die Möglichkeit, sich selber und nahestehende Personen aus Ihrem Umfeld -- wie Kinder, Enkel und Nachbarn -- zu entlasten und sich auf eine neue und freundschaftliche Begegnung einzulassen.
+Mit [meinem Angebot](/angebot/) biete ich Ihnen die Möglichkeit, sich selbst und nahestehende Personen zu entlasten und sich auf eine neue, freundschaftliche Begegnung einzulassen.
 
 Dadurch erhoffe ich mir, zusammen mit Ihnen einen Teil Ihres Alltags zufrieden zu gestalten.
