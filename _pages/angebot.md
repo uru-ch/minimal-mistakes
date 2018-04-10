@@ -30,7 +30,7 @@ Ich nenne keinen fixen Preis, denn die Lebensverhältnisse sind sehr verschieden
 
 ## Gutschein zum Verschenken
 
-Spricht Sie mein Angebot an, haben aber selber keinen Bedarf dafür? Dann könnten Sie einem geschätzten Menschen einen Gutschein für einen halben oder ganzen Tag schenken. Die beschenkte Person bespricht das Arrangement für den von Ihnen verschenkten Zeitumfang selber mit mir. Sie bestimmen den Preis.
+Spricht Sie mein Angebot an, haben aber selber keinen Bedarf dafür? Dann könnten Sie einem nahestehenden Menschen einen Gutschein für einen halben oder ganzen Tag schenken. Die beschenkte Person bespricht das Arrangement für den von Ihnen verschenkten Zeitumfang selber mit mir. Sie bestimmen den Preis.
 
 Den optisch ansprechenden Gutschein stelle ich Ihnen umgehend zu.
 
