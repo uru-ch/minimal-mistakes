@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Mein Angebot"
-excerpt: "Entlasten Sie sich selber und nahestehende Personen aus Ihrem Umfeld – wie Kinder, Enkel und Nachbarn – und lassen Sie sich auf eine neue und freundschaftliche Begegnung ein."
+excerpt: "Entlasten Sie sich selbst und nahestehende Personen und lassen Sie sich auf eine neue, freundschaftliche Begegnung ein."
 permalink: /angebot/
 author_profile: true
 header:
@@ -14,7 +14,7 @@ header:
 ---
 {% include base_path %}
 
-Ich begleite Sie bei verschiedensten Tagesunternehmungen, biete Gesellschaft bei Ausflügen und Kulturanlässen an, sowie Unterstützung bei Autofahrten, Computer-, Büro-, Haus- und Gartenarbeiten.
+**Sie möchten etwas unternehmen, in Gesellschaft einen Ausflug machen oder einen kulturellen Anlass besuchen? Sie brauchen Unterstützung für eine Autofahrt, mit dem Computer oder Handy, bei Arbeiten im Büro, Haus oder Garten?**
 
 Weitere Tätigkeiten können sein: zusammen reden, spazieren, vorlesen, philosophieren, kochen und essen, einkaufen, entrümpeln, organisieren, spielen und vieles mehr.
 
@@ -22,11 +22,8 @@ Ich freue mich, die von Ihnen gewünschte Unterstützung anzubieten und bei Ihne
 
 ## Entlöhnung
 
-Ich möchte diese Tätigkeit als Haupterwerb ausüben. Deshalb fällt mein bestehendes Einkommen weg und ich brauche eine finanzielle Entschädigung.
-
-Um solidarisch mein Angebot auch finanzschwachen Menschen anbieten zu können, vereinbare ich den Tagessatz individuell und je nach deren finanziellen Möglichkeiten.
-
-Ich nenne keinen fixen Preis, denn die Lebensverhältnisse sind sehr verschieden. Wenn kein Geld vorhanden ist, arbeite ich gratis. Werde ich gut entlöhnt, dient dies nicht nur meiner persönlichen Bereicherung, sondern ist auch ein solidarischer Beitrag für finanzschwache Menschen in der Region.
+Mein Anliegen ist, dass dieses Angebot unabhängig von den finanziellen Möglichkeiten für alle bezahlbar ist. Deshalb vereinbaren wir einen angepassten Tages- oder Halbtagessatz individuell miteinander. 
+Sie bleiben auf der sicheren Seite, denn Sie können unsere Zusammenarbeit jederzeit beenden.
 
 ## Gutschein zum Verschenken
 
