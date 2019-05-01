@@ -13,7 +13,7 @@ Als Umweltingenieur anfangs 30ig, der die letzten Jahre theoretisch, konzeptione
 
 Ich glaube: besonders Begegnungen ohne Zeitdruck sind wertvoll. Solche ermöglichen spontane, inspirierende Aktivitäten und freundschaftliches Zusammensein.
 
-Mit meiner langjährigen Partnerin bin ich vor kurzem aus der Stadt Zürich nach [Männedorf in ein Mehr&shy;generationen&shy;haus](/kontakt/) umgezogen.
+Mit meiner Frau bin ich 2018 aus der Stadt Zürich nach Männedorf in ein Mehr&shy;generationen&shy;haus umgezogen.
 
 ## Eine Auswahl meiner Ausbildungen
 
