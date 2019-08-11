@@ -26,5 +26,5 @@ Mit meiner Frau bin ich 2018 aus der Stadt Zürich nach Männedorf in ein Mehr&s
 
 ## Berufliche Erfahrung
 
-* Seit 2012 **Umweltingenieur** und Mitbegründer der sinndrin genossenschaft. Erwachsenenbildung, Projektleitung, Webdesign und Webhosting. Interne Verantwortung für das Aktuariat, den Infrastrukturaufbau und die Serveradministration.
+* Seit 2012 **Umweltingenieur** und Mitbegründer der [sinndrin genossenschaft](https://www.sinndrin.ch/ueber-uns/genossenschafter/roger-schaerer/). Erwachsenenbildung, Projektleitung, Webdesign und Webhosting. Interne Verantwortung für das Aktuariat, den Infrastrukturaufbau und die Serveradministration.
 * Davor war ich als **Planungs- und Projektleiter** für Glasfaser-Netzwerk-Geräte im Zürcher Oberland tätig und am Flughafen Zürich als **Einkäufer von Flugzeugteilen**.
